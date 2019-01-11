@@ -6,27 +6,43 @@ There are a massive number of companies that are required to implement infrastru
 
 ## Project Goals
 Auto-deployment of Control Plane Security Policies MVP/Proof of Concept – 5 Workloads to start
+
 Auto-deployment of infrastructure for testing to confirm proper configuration of security policies
+
 Allow user to *select* and customize policies for workload(s) they wish to deploy. (Self-Service Portal)
+
 Provide options to easily modify standard/default options on the fly
+
 Provide a way to *save* configuration so it can be restored, tweaked and run again
+
 Hack-in-a-box: Instructions and resource to run a 5-day hack where the outcome is 2-3 workloads running securely in Azure with best practices and policies implemented
+
 Inspire and recruit community development efforts
+
 Leverage existing Open Source Projects as much as possible
+
 
 ## Next Steps
 Build out project design document (Dan, Gil & Tommy)
+
 Create Tracking Project (Dan)
+
 Create wireframe (Dan & Tommy)
+
 Create Azure DevOps Project (Gil)
+
 Create Storyboards (Dan, Tommy & Gil)
+
 Create GitHub Project Repo (Dan)
+
 Build Backlog
+
 Decide on language(s)  PowerShell + … (Python?)
+
 Recruit vTeam
 
 ## Owners 
 Gil Isaacs, Tommy Patterson, Dan Stolts
 
 ## Contributors  
-Your Name GOES HERE!!! PLEASE VOLUNTEER  
+Your Name GOES HERE!!! PLEASE VOLUNTEER  send email with your github id and skills to dstolts@microsoft.com
