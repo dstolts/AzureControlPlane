@@ -43,6 +43,21 @@ Decide on language(s)  PowerShell + … (Python?)
 
 Recruit vTeam
 
+## Windows Virtual Desktop Workload 
+1.	Azure Application gateway
+2.	Azure Policy Service
+3.	RBAC
+4.	Express Route
+5.	Key Vault
+6.	Virtual Network
+7.	Azure Blob Storage 
+8.	Azure Table Storage
+9.	Managed Disks
+10.	Network Security Group
+11.	Azure DNS
+12.	Azure AD
+13.	Windows Virtual Machines/Linux Virtual Machines
+
 
 ## Owners 
 Gil Isaacs, Tommy Patterson, Dan Stolts
