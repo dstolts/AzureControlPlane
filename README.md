@@ -7,43 +7,29 @@ There are a massive number of companies that are required to implement infrastru
 Our current plan is to leverage Azure Policy Samples https://github.com/Azure/azure-policy and create additional policies needed by many companies as a "best practice" or many needed by compliance regulations. Later (Phase II) we will add Blueprint and perhaps Custodian to the mix.
 
 ## Project Goals
-Auto-deployment of Control Plane Security Policies MVP/Proof of Concept – 5 Workloads to start.  First workload (currently in planning) is Windows Virtual Desktop running on Azure.  This workload will include all additional service needed to run this workload (storage, networking, etc) so when the workload is deployed, all dependent components are also deployed in a compliant way.
-
-Auto-deployment of infrastructure for testing to confirm proper configuration of security policies
-
-Allow user to *select* and customize policies for workload(s) they wish to deploy. (Self-Service Portal)
-
-Provide options to easily modify standard/default options on the fly
-
-Provide a way to *save* configuration so it can be restored, tweaked and run again
-
-Hack-in-a-box: Instructions and resource to run a 5-day hack where the outcome is 2-3 workloads running securely in Azure with best practices and policies implemented
-
-Inspire and recruit community development efforts
-
-Leverage existing Open Source Projects as much as possible
-
+*  Auto-deployment of Control Plane Security Policies MVP/Proof of Concept – 5 Workloads to start.  First workload (currently in planning) is Windows Virtual Desktop running on Azure.  This workload will include all additional service needed to run this workload (storage, networking, etc) so when the workload is deployed, all dependent components are also deployed in a compliant way.
+** Auto-deployment of infrastructure for testing to confirm proper configuration of security policies
+** Allow user to *select* and customize policies for workload(s) they wish to deploy. (Self-Service Portal)
+** Provide options to easily modify standard/default options on the fly
+** Provide a way to *save* configuration so it can be restored, tweaked and run again
+** Hack-in-a-box: Instructions and resource to run a 5-day hack where the outcome is 2-3 workloads running securely in Azure with best practices and policies implemented
+** Inspire and recruit community development efforts
+** Leverage existing Open Source Projects as much as possible
+** Leverage Best Practices
 
 ## Next Steps
-Build out project design document (Dan, Gil & Tommy)
+** Build out project design document 
+** Create Tracking Project 
+** Collect Education resources
+** Create wireframe 
+** Create Azure DevOps Project 
+** Create Storyboards (Dan, Tommy & Gil)
+** Create GitHub Project Repo (Dan)
+** Build Backlog
+** Decide on language(s)  PowerShell + … (Python?)
+** Recruit vTeam
 
-Create Tracking Project (Dan)
-
-Create wireframe (Dan & Tommy)
-
-Create Azure DevOps Project (Gil)
-
-Create Storyboards (Dan, Tommy & Gil)
-
-Create GitHub Project Repo (Dan)
-
-Build Backlog
-
-Decide on language(s)  PowerShell + … (Python?)
-
-Recruit vTeam
-
-## Windows Virtual Desktop Workload 
+## Core Services
 1.	Azure Application gateway
 2.	Azure Policy Service
 3.	RBAC
@@ -58,9 +44,23 @@ Recruit vTeam
 12.	Azure AD
 13.	Windows Virtual Machines/Linux Virtual Machines
 
+## Windows Virtual Desktop Workload 
+1.	Azure Application gateway
+2.	Azure Policy Service
+3.	RBAC
+4.	Key Vault
+5.	Virtual Network
+6.	Azure Blob Storage 
+7.	Azure Table Storage
+8.	Managed Disks
+9.	Network Security Group
+10.	Azure DNS
+11.	Azure AD
+12.	Windows Virtual Machines/Linux Virtual Machines
+
 
 ## Owners 
-Gil Isaacs, Tommy Patterson, Dan Stolts
+Tommy Patterson, Dan Stolts, Gil Isaacs
 
 ## Contributors  
 Your Name GOES HERE!!! PLEASE VOLUNTEER  send email with your github id and skills to dstolts@microsoft.com
