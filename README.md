@@ -30,19 +30,20 @@ Our current plan is to leverage Azure Policy Samples https://github.com/Azure/az
 ** Recruit vTeam
 
 ## Core Services
-1.	Azure Application gateway
-2.	Azure Policy Service
-3.	RBAC
-4.	Express Route
-5.	Key Vault
-6.	Virtual Network
-7.	Azure Blob Storage 
-8.	Azure Table Storage
-9.	Managed Disks
-10.	Network Security Group
-11.	Azure DNS
-12.	Azure AD
-13.	Windows Virtual Machines/Linux Virtual Machines
+1.  Azure Subscription	
+2.  Azure Application gateway
+3.	Azure Policy Service
+4.	RBAC
+5.	Express Route
+6.	Key Vault
+7.	Virtual Network
+8.	Azure Blob Storage 
+9.	Azure Table Storage
+10.	Managed Disks
+11.	Network Security Group
+12.	Azure DNS
+13.	Azure AD
+14.	Windows Virtual Machines/Linux Virtual Machines
 
 ## Windows Virtual Desktop Workload 
 1.	Azure Application gateway
