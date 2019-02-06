@@ -46,7 +46,7 @@ Our current plan is to leverage Azure Policy Samples https://github.com/Azure/az
 1.	Azure AD
 1.	Windows Virtual Machines/Linux Virtual Machines
 
-## Windows Virtual Desktop Workload 
+## Virtual Machine Workload 
 1.	Azure Application gateway
 1.	Azure Policy Service
 1.	RBAC
@@ -67,4 +67,4 @@ Tommy Patterson, Dan Stolts
 ## Contributors  
 * Gil Isaacs
 * Stefan Gordon
-Your Name GOES HERE!!! PLEASE VOLUNTEER  send email with your github id and skills to dstolts@microsoft.com
+* Your Name GOES HERE!!! PLEASE VOLUNTEER  send email with your github id and skills to dstolts@microsoft.com
