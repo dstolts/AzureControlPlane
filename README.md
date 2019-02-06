@@ -15,7 +15,7 @@ Our current plan is to leverage Azure Policy Samples https://github.com/Azure/az
 ** Hack-in-a-box: Instructions and resource to run a 5-day hack where the outcome is 2-3 workloads running securely in Azure with best practices and policies implemented
 ** Inspire and recruit community development efforts
 ** Leverage existing Open Source Projects as much as possible
-** Leverage Best Practices
+** Leverage Best Practices https://aka.ms/MyASIS
 
 ## Next Steps
 ** Build out project design document 
