@@ -29,7 +29,7 @@ Our current plan is to leverage Azure Policy Samples https://github.com/Azure/az
 * Decide on language(s)  PowerShell + … (Python?)
 * Recruit vTeam
 
-## Core Services
+## 1 Core Services
 1.  Azure Subscription	
 1.  Azure Resource Group
 1.	Azure Policy Service
@@ -46,20 +46,20 @@ Our current plan is to leverage Azure Policy Samples https://github.com/Azure/az
 1.	Azure AD
 1.	Windows Virtual Machines/Linux Virtual Machines
 
-## Virtual Machine Workload 
+## 2 Virtual Machine Workload 
 1.	Azure Application gateway
 1.	Azure Policy Service
 1.	RBAC
 1.	Key Vault
 1.	Virtual Network
-1.	Azure Blob Storage 
-1.	Azure Table Storage
+1.	Azure Blob Storage
 1.	Managed Disks
 1.	Network Security Group
 1.	Azure DNS
 1.	Azure AD
 1.	Windows Virtual Machines/Linux Virtual Machines
 
+## 3-5 To Be Determined
 
 ## Owners 
 Tommy Patterson, Dan Stolts
