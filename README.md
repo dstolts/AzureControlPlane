@@ -1,8 +1,13 @@
 # Azure Core Enablement and Security Control Plane
-Azure Control Plane In-A-Box   ETA March 2019 for first workload (Windows Virtual Desktop) and May 1st 2019 for all 5 of the top priority workloads(To Be Defined).
+Azure Control Plane In-A-Box  ETA April 2019 for first workloads (Core Services and Virtual Machine) and May 1st 2019 for all 5 of the top priority workloads. 
+1. Core Services (networking, security, etc)
+1. Virtual Machine (Windows and Linux) 
+1. To Be Defined
+1. To Be Defined
+1. To Be Defined
 
 ## Problem Statement
-There are a massive number of companies that are required to implement infrastructure in a secure way adopting Azure.  Azure as a platform is very secure but the security of any system is only as strong as the weakest link.  It is a huge challenge for companies to understand what they need to do to deploy resources securely into Azure while meeting regulatory compliance and preventing mistakes or bad actors from compromising parts of the system.  The time it takes to do this is often measured in months even with full teams working on the solution.  We (all Microsoft customers) need an easy onramp to put workloads into Azure and make sure guard rails and remediations are implemented to make sure they stay secure and compliant.  Additionally, guidance is needed on compliance monitoring and where to go to frame the requirements for onboarding to cloud services and Azure. 
+There are a massive number of companies adopting Azure that are required to implement infrastructure in a secure way.  Azure as a platform is very secure but the security of any system is only as strong as the weakest link.  It is a huge challenge for companies to understand what they need to do to deploy resources securely into Azure while meeting regulatory compliance and preventing mistakes or bad actors from compromising parts of the system.  The time it takes to do this is often measured in months even with full teams working on the solution.  We (all Microsoft customers) need an easy onramp to put workloads into Azure and make sure guard rails and remediations are implemented to make sure they stay secure and compliant.  Additionally, guidance is needed on compliance monitoring and where to go to frame the requirements for onboarding to cloud services and Azure. 
 
 Our current plan is to leverage Azure Policy Samples https://github.com/Azure/azure-policy and create additional policies needed by many companies as a "best practice" or many needed by compliance regulations. Later (Phase II) we will add Blueprint and perhaps Custodian to the mix.
 
@@ -33,8 +38,7 @@ Our current plan is to leverage Azure Policy Samples https://github.com/Azure/az
 1.  Azure Subscription	
 1.  Azure Resource Group
 1.	Azure Policy Service
-1.	RBAC
-1.	Express Route
+1.	Azure Management Group & Role Based Access (RBAC)
 1.	Key Vault
 1.  Azure Application gateway
 1.	Virtual Network
@@ -44,12 +48,13 @@ Our current plan is to leverage Azure Policy Samples https://github.com/Azure/az
 1.	Network Security Group
 1.	Azure DNS
 1.	Azure AD
-1.	Windows Virtual Machines/Linux Virtual Machines
+1.	Express Route
+1.  Windows Virtual Machines/Linux Virtual Machines
 
 ## 2 Virtual Machine Workload 
 1.	Azure Application gateway
 1.	Azure Policy Service
-1.	RBAC
+1.	Azure Management Group & Role Based Access (RBAC)
 1.	Key Vault
 1.	Virtual Network
 1.	Azure Blob Storage
