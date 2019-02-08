@@ -83,4 +83,5 @@ Tommy Patterson, Dan Stolts
 1. ARM Template Authors - Create and Test ARM Templates
 1. DevSecOps Leadership / Coaching
 1. Azure DevOps (product) experts - Manage backlog, create pipelines, Create tests, etc. 
+1. Azure Monitoring and/or systems auditing expertise
 1. If you have these or other skills you think may be helpful, please reach out to dstolts@microsoft.com
