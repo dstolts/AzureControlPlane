@@ -1,4 +1,4 @@
-# AzureControlPlane
+# Azure Core Enablement and Security Control Plane
 Azure Control Plane In-A-Box   ETA March 2019 for first workload (Windows Virtual Desktop) and May 1st 2019 for all 5 of the top priority workloads(To Be Defined).
 
 ## Problem Statement
@@ -15,7 +15,7 @@ Our current plan is to leverage Azure Policy Samples https://github.com/Azure/az
 * Hack-in-a-box: Instructions and resource to run a 5-day hack where the outcome is 2-3 workloads running securely in Azure with best practices and policies implemented
 * Inspire and recruit community development efforts
 * Leverage existing Open Source Projects as much as possible
-* Leverage Best Practices https://aka.ms/MyASIS
+* Leverage Best Practices https://aka.ms/MyASIS https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/overview
 
 ## Next Steps
 * Build out project design document 
