@@ -73,3 +73,14 @@ Tommy Patterson, Dan Stolts
 * Gil Isaacs
 * Stefan Gordon
 * Your Name GOES HERE!!! PLEASE VOLUNTEER  send email with your github id and skills to dstolts@microsoft.com
+
+## Help Needed
+1. Python3 Developer
+1. PowerShell Developer
+1. Azure CLI Developer
+1. Blog Post Writers - Story Tellers that can take a single challenge; sift through the facts and create a sucinct and easy to follow solution.
+1. Policy Creator - Create Azure Policies (easy to learn if you do not already know how)
+1. ARM Template Authors - Create and Test ARM Templates
+1. DevSecOps Leadership / Coaching
+1. Azure DevOps (product) experts - Manage backlog, create pipelines, Create tests, etc. 
+1. If you have these or other skills you think may be helpful, please reach out to dstolts@microsoft.com
